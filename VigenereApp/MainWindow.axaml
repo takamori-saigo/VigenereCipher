@@ -1,0 +1,35 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="VigenereApp.MainWindow" 
+        Title="Шифр Виженера"
+        Width="500" Height="600"
+        Background="#F5F5F5">
+
+    <StackPanel Margin="30" Spacing="15">
+        
+        <TextBlock Text="Шифр Виженера" FontSize="24" FontWeight="Bold" HorizontalAlignment="Center"/>
+
+        <StackPanel Spacing="5">
+            <TextBlock Text="Ключ:" Foreground="#555"/>
+            <TextBox Name="TxtKey" Watermark="Введите ключ..." Padding="8"/>
+        </StackPanel>
+
+        <StackPanel Spacing="5">
+            <TextBlock Text="Текст:" Foreground="#555"/>
+            <TextBox Name="TxtInput" AcceptsReturn="True" Height="100" TextWrapping="Wrap" Padding="8"/>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" Spacing="10" HorizontalAlignment="Center">
+            <Button Name="BtnEncrypt" Content="Зашифровать" Padding="15,5" Background="#4CAF50" Foreground="White"/>
+            <Button Name="BtnDecrypt" Content="Расшифровать" Padding="15,5" Background="#2196F3" Foreground="White"/>
+        </StackPanel>
+
+        <StackPanel Spacing="5">
+            <TextBlock Text="Результат:" Foreground="#555"/>
+            <Border Background="White" BorderBrush="#CCC" BorderThickness="1" CornerRadius="4">
+                <TextBox Name="TxtOutput" IsReadOnly="True" Height="100" TextWrapping="Wrap" Padding="8" Background="Transparent" BorderThickness="0"/>
+            </Border>
+        </StackPanel>
+
+    </StackPanel>
+</Window>
