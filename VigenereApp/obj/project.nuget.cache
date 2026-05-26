@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B9y1Va4hBKw=",
+  "dgSpecHash": "F6EYyccrZqM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gats\\RiderProjects\\VigenereApp\\VigenereApp\\VigenereApp.csproj",
+  "projectFilePath": "C:\\Users\\gats\\RiderProjects\\VigenereCipher\\VigenereApp\\VigenereApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gats\\.nuget\\packages\\avalonia\\11.2.6\\avalonia.11.2.6.nupkg.sha512",
     "C:\\Users\\gats\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",

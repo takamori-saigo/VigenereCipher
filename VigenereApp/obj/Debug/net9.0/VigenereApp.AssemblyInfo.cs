@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VigenereApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c8b7a7e7c6f75248088f4de9805886006d5e24f")]
 [assembly: System.Reflection.AssemblyProductAttribute("VigenereApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VigenereApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

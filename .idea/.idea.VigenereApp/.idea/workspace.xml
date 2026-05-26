@@ -7,15 +7,51 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="684a4702-21f4-42e8-91da-79db7ec4544d" name="Changes" comment="" />
+    <list default="true" id="684a4702-21f4-42e8-91da-79db7ec4544d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.VigenereApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.VigenereApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/Helpers/VigenereCipher.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/MainWindow.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/MainWindow.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/MainWindow.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/bin/Debug/net9.0/VigenereApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/bin/Debug/net9.0/VigenereApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/bin/Debug/net9.0/VigenereApp.exe" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/bin/Debug/net9.0/VigenereApp.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/bin/Debug/net9.0/VigenereApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/bin/Debug/net9.0/VigenereApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/Avalonia/Resources.Inputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/Avalonia/VigenereApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/Avalonia/VigenereApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/Avalonia/VigenereApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/Avalonia/VigenereApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/Avalonia/references" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/Avalonia/references" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/Avalonia/resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/VigenereApp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/ref/VigenereApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/ref/VigenereApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/refint/Avalonia/VigenereApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/refint/Avalonia/VigenereApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/refint/VigenereApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/Debug/net9.0/refint/VigenereApp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/VigenereApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/VigenereApp.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/VigenereApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/VigenereApp.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VigenereApp/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/VigenereApp/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="3CMCLPRWEEiLNtPi7m2lN3bGuNj" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,6 +61,7 @@
   "keyToString": {
     ".NET Project.VigenereApp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",

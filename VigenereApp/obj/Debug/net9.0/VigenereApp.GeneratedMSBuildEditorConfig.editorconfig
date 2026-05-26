@@ -15,14 +15,14 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = VigenereApp
-build_property.ProjectDir = C:\Users\gats\RiderProjects\VigenereApp\VigenereApp\
+build_property.ProjectDir = C:\Users\gats\RiderProjects\VigenereCipher\VigenereApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/gats/RiderProjects/VigenereApp/VigenereApp/App.axaml]
+[C:/Users/gats/RiderProjects/VigenereCipher/VigenereApp/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/gats/RiderProjects/VigenereApp/VigenereApp/MainWindow.axaml]
+[C:/Users/gats/RiderProjects/VigenereCipher/VigenereApp/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
